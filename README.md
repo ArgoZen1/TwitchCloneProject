@@ -1,6 +1,23 @@
-Le lien du projet : 
+# Le lien du projet : 
 
 https://sparkly-dolphin-0934ab.netlify.app/
+
+J'ai crée un petit clone de twitch avec React en travaillant avec l'API de twitch
+J'ai mis l'accent sur les fonctionnalités.
+
+Les React Hooks (useState, useEffect, etc...)
+
+React-router, pour simuler une navigation, ainsi que les Hooks inclus dans React-router.
+
+Faire du responsive avec React, en créant notamment une barre de navigation responsive.
+
+Utiliser une API avec React.
+
+Découvrir l'API de Twitch.
+
+Utiliser Axios
+
+Utiliser des affichages conditionnels (opérateur ternaire, short-circuit)
 
 # Getting Started with Create React App
 
