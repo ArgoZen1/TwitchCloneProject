@@ -1,5 +1,7 @@
 # Le lien du projet : 
 
+/* Ne fonctionne actuellement plus, l'Api de twitch à changer */ 
+
 https://sparkly-dolphin-0934ab.netlify.app/
 
 J'ai crée un petit clone de twitch avec React en travaillant avec l'API de twitch
